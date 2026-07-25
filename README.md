@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Inshal Hassan Mengal<br>🔭 I’m currently working on Skills<br>🌱 I’m currently learning App development<br>💬 Ask me about Web develpment<br>⚡ Fun fact I love coding more than my studies
+Hi, I am Inshal Hassan Mengal<br>🔭 I’m currently working on my Skills<br>🌱 I’m currently learning App development<br>💬 Ask me about Web develpment<br>⚡ Fun fact I love coding more than my studies
 
 
 ## 🌐 Socials:
