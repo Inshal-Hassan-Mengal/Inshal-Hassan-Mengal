@@ -1,5 +1,9 @@
-# 💫 About Me:
-# Hi, I'm Inshal Hassan Mengal 👋<br><br>💻 MERN Stack Developer passionate about building modern, responsive, and scalable web applications.<br>🚀 Currently enhancing my skills by working on real-world projects.<br>🌱 Exploring **Mobile App Development** while continuing to grow as a full-stack developer.<br>💬 Ask me about **MongoDB, Express.js, React, Node.js, JavaScript, HTML, CSS, and Web Development**.<br>⚡ **Fun Fact:** I enjoy solving coding challenges and building projects more than anything else!<br>
+Hi, I'm Inshal Hassan Mengal 👋
+
+🔭 I'm currently working on MERN Stack projects
+🌱 I'm currently learning App Development
+💬 Ask me about MERN Stack & Web Development
+⚡ Fun fact: I love coding more than studying.
 
 
 ## 🌐 Socials:
