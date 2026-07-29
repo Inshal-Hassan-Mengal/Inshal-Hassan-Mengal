@@ -1,10 +1,11 @@
-Hi, I'm Inshal Hassan Mengal 👋
+<h1 align="center">Hi 👋, I'm Inshal Hassan Mengal</h1>
 
-🔭 I'm currently working on MERN Stack projects
-🌱 I'm currently learning App Development
-💬 Ask me about MERN Stack & Web Development
-⚡ Fun fact: I love coding more than studying.
-
+<p align="center">
+  🔭 I'm currently working on <strong>MERN Stack</strong> projects <br>
+  🌱 I'm currently learning <strong>App Development</strong> <br>
+  💬 Ask me about <strong>MERN Stack & Web Development</strong> <br>
+  ⚡ Fun fact: I love coding more than studying.
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/inshal-hassan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inshalh221@gmail.com) 
